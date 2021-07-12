@@ -1,3 +1,25 @@
+header {
+    display:  flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 .hide {
     display: none;
+}
+
+li {
+    background-color: darkcyan;
+    color: black;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px ;
+    margin: 10px;
+    cursor: pointer;
 }
